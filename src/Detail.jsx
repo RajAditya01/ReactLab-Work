@@ -45,4 +45,3 @@ function StudentDetails() {
 }
 
 export default StudentDetails;
-
