@@ -1,0 +1,53 @@
+[
+    {
+      "Registration_No": 11212714,
+      "Name": "Aditya Raj",
+      "Department": "computer science"
+    },
+    {
+      "Registration_No": 11212506,
+      "Name": "Snehit Garg",
+      "Department": "computer science"
+    },
+    {
+      "Registration_No": 11212535,
+      "Name": "Rinki",
+      "Department": "computer science"
+    },
+    {
+      "Registration_No": 11212529,
+      "Name": "Gautam",
+      "Department": "computer science"
+    },
+    {
+        "Registration_No": 11212781,
+        "Name": "Babarangi",
+        "Department": "computer science"
+      },
+      {
+        "Registration_No": 11212782,
+        "Name": "Ankit Raj",
+        "Department": "computer science"
+      },
+      {
+        "Registration_No": 11212505,
+        "Name": "Punit",
+        "Department": "computer science"
+      },
+      {
+        "Registration_No": 11212507,
+        "Name": "Akshat",
+        "Department": "computer science"
+      },
+      {
+        "Registration_No": 11212520,
+        "Name": "Vansh",
+        "Department": "computer science"
+      },
+      {
+        "Registration_No": 11212715,
+        "Name": "Arun",
+        "Department": "computer science"
+      }
+  ]
+  
